@@ -8,5 +8,5 @@
 
 <p align="center">
   Last refresh: 
-  <b><!--GITHUB_REPOS:{"rows": 4, "raw": true}--></b>
+  <b>{{ ACCOUNT_AGE }}</b>
 </p>
