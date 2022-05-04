@@ -2,7 +2,7 @@
 ### 🗣 My activity:
 
 
-
+{{ ACCOUNT_AGE }}
 
 ---
 
